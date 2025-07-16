@@ -46,7 +46,7 @@ LeedCode-Solutions/
 * Folder name: `<problem_id>_<problem_title_in_snake_case>`
 * Files inside each folder:
 
-  * `<problem_id>_<problem_title_in_snake_case>.py`: Accepted Python solution
+  * `<problem_title_in_snake_case>.py`: Accepted Python solution
   * `README.md`: Explanation
 
 
